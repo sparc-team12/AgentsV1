@@ -5,6 +5,9 @@ __pycache__/
 venv/
 .pytest_cache/
 
+# Local secrets (API keys, etc.) — see .env.example for the template
+.env
+
 # Local mutable state (the DynamoDB stand-in for local development)
 .state/
 

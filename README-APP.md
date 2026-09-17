@@ -18,6 +18,11 @@ python -m uvicorn app.main:app --reload --app-dir src
 
 Open <http://127.0.0.1:8000>.
 
+To enable Chat Agent prose rewording (optional — see "the language layer never
+computes a number" below), copy `.env.example` to `.env` at the repo root and
+fill in `GEMINI_API_KEY` (or the Bedrock equivalents). `.env` is loaded
+automatically and is git-ignored; never commit it.
+
 | Persona | Email | Password |
 |---|---|---|
 | `kitchen-manager` | kitchen.manager@example.com | kitchen-demo-2026 |
@@ -94,9 +99,11 @@ every date comes from `demand_engine`, `risk_engine` or `scenario`, and each one
 carries a `trace` listing the arithmetic behind it. The Chat Agent is handed
 those finished figures and may only put them in sentences. That is what makes
 REQ-030 and REQ-031 hold structurally rather than by review. Set
-`PHRASING_BACKEND=bedrock` to have Amazon Bedrock reword the prose — it gets the
-same finished figures, and any numeral it introduces that the engines did not
-produce is rejected and the deterministic text is used instead.
+`PHRASING_BACKEND=bedrock` (Amazon Bedrock) or `PHRASING_BACKEND=gemini`
+(Google AI Studio, needs `GEMINI_API_KEY` — see `.env.example`) to have an LLM
+reword the prose — either gets the same finished figures, and any numeral it
+introduces that the engines did not produce is rejected and the deterministic
+text is used instead.
 
 **Determinism is structural** (REQ-028). `today` is always a parameter, never
 read from a clock inside an engine; every aggregation iterates a `sorted()`

@@ -20,6 +20,19 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]      # repository root
+
+# Local dev convenience only: if a .env file sits at the repo root, load it
+# into os.environ before anything below reads a variable (API keys, backend
+# switches, credential overrides). python-dotenv is a dev-only dependency
+# (requirements-dev.txt) and is never installed in the Lambda package, so this
+# is a silent no-op in production — the Lambda's environment always comes from
+# CloudFormation (template.yaml), never from a file.
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv(ROOT / ".env")
+except ImportError:
+    pass
 PACKAGE = Path(__file__).resolve().parents[1]    # src/ — what gets deployed
 DATA_DIR = Path(os.environ.get("DATA_DIR", PACKAGE / "data"))
 WEB_DIR = Path(os.environ.get("WEB_DIR", PACKAGE / "web"))
