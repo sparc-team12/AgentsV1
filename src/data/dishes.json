@@ -1,0 +1,92 @@
+[
+  {
+    "dish_id": "DISH-001",
+    "name": "Hyderabadi Mutton Biryani",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-002",
+    "name": "Chicken Dum Biryani",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-003",
+    "name": "Butter Chicken",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-004",
+    "name": "Paneer Butter Masala",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-005",
+    "name": "Prawn Ghee Roast",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-006",
+    "name": "Chicken Chettinad",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-007",
+    "name": "Dal Tadka",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-008",
+    "name": "Palak Paneer",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-009",
+    "name": "Aloo Gobi",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-010",
+    "name": "Veg Pulao",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-011",
+    "name": "Malai Kofta",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-012",
+    "name": "Chicken Tikka",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-013",
+    "name": "Tandoori Roti",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-014",
+    "name": "Jeera Rice",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-015",
+    "name": "Masala Papad",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-016",
+    "name": "Gulab Jamun",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-017",
+    "name": "Kheer",
+    "active": true
+  },
+  {
+    "dish_id": "DISH-018",
+    "name": "Chana Masala",
+    "active": true
+  }
+]

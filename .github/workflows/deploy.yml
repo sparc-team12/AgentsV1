@@ -1,0 +1,96 @@
+name: test-and-deploy
+
+# Tests run on every push and pull request. Deployment runs only on main, and
+# only after the tests pass — CONVENTIONS.md section 6 puts a gate on anything
+# that reaches a shared environment.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Which environment to deploy
+        type: choice
+        options: [dev, prod]
+        default: dev
+
+permissions:
+  contents: read
+  id-token: write        # for OIDC role assumption, when configured
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+
+      - name: Verify the seed data is reproducible
+        # REQ-028 — the supplied dataset is generated deterministically, so a
+        # regenerated copy must match the committed one byte for byte.
+        run: |
+          python scripts/seed_data.py
+          git diff --exit-code src/data/
+
+      - name: Run tests
+        run: python -m pytest tests/ -q
+
+  deploy:
+    needs: test
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment || 'dev' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: aws-actions/setup-sam@v2
+        with:
+          use-installer: true
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          # Preferred: an OIDC role, so no long-lived key is ever stored.
+          # Falls back to access keys if AWS_ROLE_ARN is not set.
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ vars.AWS_REGION || 'us-east-1' }}
+
+      - name: Build
+        run: sam build
+
+      - name: Deploy
+        run: |
+          sam deploy \
+            --stack-name "ifa-${{ inputs.environment || 'dev' }}" \
+            --capabilities CAPABILITY_IAM \
+            --no-confirm-changeset \
+            --no-fail-on-empty-changeset \
+            --resolve-s3 \
+            --parameter-overrides \
+              Environment="${{ inputs.environment || 'dev' }}" \
+              SessionSecret="${{ secrets.SESSION_SECRET }}" \
+              KitchenManagerPassword="${{ secrets.KITCHEN_MANAGER_PASSWORD }}" \
+              FbManagerPassword="${{ secrets.FB_MANAGER_PASSWORD }}"
+
+      - name: Report the URL and check it is alive
+        run: |
+          URL=$(aws cloudformation describe-stacks \
+            --stack-name "ifa-${{ inputs.environment || 'dev' }}" \
+            --query "Stacks[0].Outputs[?OutputKey=='AppUrl'].OutputValue" --output text)
+          echo "### Deployed: $URL" >> "$GITHUB_STEP_SUMMARY"
+          curl -fsS "${URL}healthz" | tee -a "$GITHUB_STEP_SUMMARY"

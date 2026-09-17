@@ -1,0 +1,5 @@
+# Runtime dependencies for the Lambda package.
+# boto3 is provided by the Lambda runtime and is deliberately not vendored.
+fastapi==0.115.6
+pydantic==2.10.4
+mangum==0.19.0

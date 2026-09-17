@@ -1,0 +1,93 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Ingredient Demand Forecasting Assistant — one Lambda behind a Function URL,
+  one DynamoDB table for the little mutable state. No API Gateway, no VPC, no
+  RDS, no container registry: the smallest AWS surface that serves this product.
+
+Parameters:
+  Environment:
+    Type: String
+    Default: dev
+    AllowedValues: [dev, prod]
+  SessionSecret:
+    Type: String
+    NoEcho: true
+    Description: HMAC key for the session cookie. Rotate by redeploying with a new value.
+  KitchenManagerEmail:
+    Type: String
+    Default: kitchen.manager@example.com
+  KitchenManagerPassword:
+    Type: String
+    NoEcho: true
+  FbManagerEmail:
+    Type: String
+    Default: fb.manager@example.com
+  FbManagerPassword:
+    Type: String
+    NoEcho: true
+  AppToday:
+    Type: String
+    Default: "2026-09-18"
+    Description: >
+      REQ-028 requires "today" to be an explicit input rather than read from a
+      clock, so the same data always yields the same figures. The supplied
+      dataset is dated around this day.
+
+Globals:
+  Function:
+    Runtime: python3.12
+    Timeout: 30
+    MemorySize: 1024
+    Architectures: [arm64]
+
+Resources:
+  StateTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: !Sub "ifa-state-${Environment}"
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+      PointInTimeRecoverySpecification:
+        PointInTimeRecoveryEnabled: true
+
+  Api:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub "ifa-api-${Environment}"
+      CodeUri: src/
+      Handler: lambda_handler.handler
+      Description: FastAPI application serving both the API and the browser client
+      Environment:
+        Variables:
+          TABLE_NAME: !Ref StateTable
+          SESSION_SECRET: !Ref SessionSecret
+          KITCHEN_MANAGER_EMAIL: !Ref KitchenManagerEmail
+          KITCHEN_MANAGER_PASSWORD: !Ref KitchenManagerPassword
+          FB_MANAGER_EMAIL: !Ref FbManagerEmail
+          FB_MANAGER_PASSWORD: !Ref FbManagerPassword
+          APP_TODAY: !Ref AppToday
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref StateTable
+      FunctionUrlConfig:
+        AuthType: NONE          # the application itself authenticates (REQ-043)
+        InvokeMode: BUFFERED    # Python handlers do not stream through a Function URL
+
+  ApiLogs:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub "/aws/lambda/ifa-api-${Environment}"
+      RetentionInDays: 14
+
+Outputs:
+  AppUrl:
+    Description: Open this in a browser
+    Value: !GetAtt ApiUrl.FunctionUrl
+  TableName:
+    Value: !Ref StateTable

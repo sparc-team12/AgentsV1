@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ingredient Demand Forecasting Assistant</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍲</text></svg>">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<div id="login" class="login-shell">
+  <form class="card login-card" id="login-form">
+    <h1>Ingredient Demand Forecasting</h1>
+    <p class="muted">Sign in to continue.</p>
+    <label>Email <input type="email" id="email" autocomplete="username" required></label>
+    <label>Password <input type="password" id="password" autocomplete="current-password" required></label>
+    <button type="submit" class="primary">Sign in</button>
+    <p class="error" id="login-error" hidden></p>
+    <p class="muted hint">
+      kitchen.manager@example.com / kitchen-demo-2026<br>
+      fb.manager@example.com / fandb-demo-2026
+    </p>
+  </form>
+</div>
+
+<div id="app" hidden>
+  <header class="topbar">
+    <div class="brand">Ingredient Demand Forecasting</div>
+    <nav>
+      <button data-view="dashboard" class="tab active">Risk dashboard</button>
+      <button data-view="setup" class="tab">Data setup</button>
+    </nav>
+    <div class="who"><span id="who"></span> <button id="logout" class="link">Sign out</button></div>
+  </header>
+
+  <main>
+    <!-- Dashboard -->
+    <section id="view-dashboard">
+      <div class="summary">
+        <div class="card exposure">
+          <div class="label">Total waste exposure</div>
+          <div class="figure" id="exposure">—</div>
+          <div class="muted" id="exposure-note"></div>
+        </div>
+        <div class="card threshold">
+          <div class="label">Materiality threshold</div>
+          <div class="row">
+            <span class="rupee">₹</span>
+            <input type="number" id="threshold" min="0" step="50">
+            <button id="apply-threshold" class="primary small">Apply</button>
+          </div>
+          <div class="muted">Warnings below this are hidden from the list but still counted above.</div>
+        </div>
+        <div class="card asof">
+          <div class="label">As of</div>
+          <div class="figure small" id="asof">—</div>
+          <div class="muted" id="horizon"></div>
+        </div>
+      </div>
+
+      <div class="split">
+        <div class="card list">
+          <h2>At-risk ingredients</h2>
+          <table id="risk-table">
+            <thead><tr><th>Ingredient</th><th>Risk</th><th>Severity</th><th>Order by</th><th class="num">Waste cost</th></tr></thead>
+            <tbody></tbody>
+          </table>
+          <p class="muted empty" id="risk-empty" hidden>Nothing is at risk right now.</p>
+        </div>
+
+        <aside class="card detail" id="detail">
+          <p class="muted">Select an ingredient to see the detail, the explanation and a purchase-order draft.</p>
+        </aside>
+      </div>
+
+      <div class="card chat">
+        <h2>Chat Agent</h2>
+        <p class="muted">Ask why something is flagged, or pose a menu change. Same box for both.</p>
+        <form id="chat-form">
+          <input id="chat-input" placeholder="why is Prawns flagged?  ·  what if we add a 50-cover banquet of Chicken Dum Biryani next Saturday?" autocomplete="off">
+          <button class="primary">Ask</button>
+        </form>
+        <div class="suggestions" id="suggestions"></div>
+        <div id="chat-log"></div>
+      </div>
+    </section>
+
+    <!-- Data setup -->
+    <section id="view-setup" hidden>
+      <div class="card">
+        <h2>Data Setup</h2>
+        <p class="muted">One-time load of the six supplied input categories.</p>
+        <div id="setup-status" class="setup-grid"></div>
+      </div>
+      <div class="card">
+        <div class="setup-tabs">
+          <button class="tab active" data-setup="menu">Menu &amp; Recipes</button>
+          <button class="tab" data-setup="ingredients">Ingredients &amp; Suppliers</button>
+          <button class="tab" data-setup="stock">Current Stock</button>
+          <button class="tab" data-setup="sales-history">Sales History</button>
+        </div>
+        <div id="setup-body"></div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
