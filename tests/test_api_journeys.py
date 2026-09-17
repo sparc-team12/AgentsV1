@@ -189,6 +189,36 @@ def test_sales_history_covers_twelve_weeks_per_dish(client):
         assert dish["gap"] is None
 
 
+def test_hidden_attribute_actually_hides():
+    """Regression guard.
+
+    The client shows and hides the login panel, the two views and the empty
+    state through the `hidden` attribute. The browser's own rule for that is
+    `[hidden] { display: none }` at the lowest possible specificity, so any
+    class that sets `display` beats it — `.login-shell` is `display: grid`, and
+    the result was a full-viewport login panel sitting on top of a dashboard
+    that had loaded correctly underneath. Cheap to assert, expensive to
+    rediscover.
+    """
+    from app import config
+
+    css = (config.WEB_DIR / "styles.css").read_text(encoding="utf-8")
+    assert "[hidden]" in css and "display: none !important" in css
+
+    html = (config.WEB_DIR / "index.html").read_text(encoding="utf-8")
+    assert "<div id=\"login\"" in html and "<div id=\"app\" hidden>" in html
+
+
+def test_the_page_and_its_assets_are_served(client):
+    """The Lambda serves the browser client itself (ADR-015), so a broken path
+    here is a blank page in production with a green test suite."""
+    assert client.get("/").status_code == 200
+    for asset in ("/static/styles.css", "/static/app.js"):
+        response = client.get(asset)
+        assert response.status_code == 200, asset
+        assert response.content, f"{asset} is empty"
+
+
 def test_threshold_change_takes_effect_without_a_redeploy(client):
     """REQ-012 / US-009 AC-2."""
     before = client.get("/api/v1/risks").json()
