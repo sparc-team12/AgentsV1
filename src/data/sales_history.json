@@ -1,0 +1,7562 @@
+[
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-06-26",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-06-27",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-06-28",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-06-29",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-06-30",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-01",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-02",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-03",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-04",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-05",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-06",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-07",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-08",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-09",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-10",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-11",
+    "units_sold": 48
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-12",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-13",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-14",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-15",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-16",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-17",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-18",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-19",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-20",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-21",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-22",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-23",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-24",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-25",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-26",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-27",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-28",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-29",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-07-31",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-01",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-02",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-03",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-04",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-05",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-06",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-07",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-08",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-09",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-10",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-11",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-12",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-13",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-14",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-15",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-16",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-17",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-18",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-19",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-20",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-21",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-22",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-23",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-24",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-25",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-26",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-27",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-28",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-29",
+    "units_sold": 55
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-30",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-08-31",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-01",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-02",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-03",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-04",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-05",
+    "units_sold": 57
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-06",
+    "units_sold": 51
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-07",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-08",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-09",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-10",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-11",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-12",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-13",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-14",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-15",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-16",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-001",
+    "sale_date": "2026-09-17",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-06-26",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-06-27",
+    "units_sold": 64
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-06-28",
+    "units_sold": 71
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-06-29",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-06-30",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-01",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-02",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-03",
+    "units_sold": 56
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-04",
+    "units_sold": 75
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-05",
+    "units_sold": 62
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-06",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-07",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-08",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-09",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-10",
+    "units_sold": 62
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-11",
+    "units_sold": 77
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-12",
+    "units_sold": 55
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-13",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-14",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-15",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-16",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-17",
+    "units_sold": 57
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-18",
+    "units_sold": 63
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-19",
+    "units_sold": 63
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-20",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-21",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-22",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-23",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-24",
+    "units_sold": 56
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-25",
+    "units_sold": 65
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-26",
+    "units_sold": 72
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-27",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-28",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-29",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-30",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-07-31",
+    "units_sold": 51
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-01",
+    "units_sold": 77
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-02",
+    "units_sold": 66
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-03",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-04",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-05",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-06",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-07",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-08",
+    "units_sold": 82
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-09",
+    "units_sold": 73
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-10",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-11",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-12",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-13",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-14",
+    "units_sold": 64
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-15",
+    "units_sold": 65
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-16",
+    "units_sold": 66
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-17",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-18",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-19",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-20",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-21",
+    "units_sold": 57
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-22",
+    "units_sold": 75
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-23",
+    "units_sold": 63
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-24",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-25",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-26",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-27",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-28",
+    "units_sold": 62
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-29",
+    "units_sold": 68
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-30",
+    "units_sold": 64
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-08-31",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-01",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-02",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-03",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-04",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-05",
+    "units_sold": 70
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-06",
+    "units_sold": 65
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-07",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-08",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-09",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-10",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-11",
+    "units_sold": 61
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-12",
+    "units_sold": 70
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-13",
+    "units_sold": 77
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-14",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-15",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-16",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-002",
+    "sale_date": "2026-09-17",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-06-26",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-06-27",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-06-28",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-06-29",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-06-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-01",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-02",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-03",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-04",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-05",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-06",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-07",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-09",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-10",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-11",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-12",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-13",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-14",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-15",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-16",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-17",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-18",
+    "units_sold": 48
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-19",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-20",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-21",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-22",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-23",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-24",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-25",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-26",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-27",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-28",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-29",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-30",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-07-31",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-01",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-02",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-03",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-04",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-06",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-07",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-08",
+    "units_sold": 55
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-09",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-10",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-11",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-12",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-13",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-14",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-15",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-16",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-17",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-18",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-19",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-20",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-21",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-22",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-23",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-24",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-25",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-26",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-27",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-28",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-29",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-30",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-08-31",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-01",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-02",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-03",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-04",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-05",
+    "units_sold": 54
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-06",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-07",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-09",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-10",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-11",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-12",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-13",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-14",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-15",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-16",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-003",
+    "sale_date": "2026-09-17",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-06-26",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-06-27",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-06-28",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-06-29",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-06-30",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-01",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-02",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-03",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-04",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-05",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-06",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-07",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-09",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-10",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-11",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-12",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-13",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-14",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-15",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-16",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-17",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-18",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-19",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-20",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-21",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-22",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-23",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-24",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-25",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-26",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-27",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-28",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-29",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-30",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-07-31",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-01",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-02",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-03",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-04",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-05",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-06",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-07",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-08",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-09",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-10",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-11",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-12",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-13",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-14",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-15",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-16",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-17",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-18",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-19",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-20",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-21",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-22",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-23",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-24",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-25",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-26",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-27",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-28",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-29",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-30",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-08-31",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-01",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-02",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-03",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-04",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-05",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-06",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-08",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-09",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-10",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-11",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-12",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-13",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-14",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-15",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-16",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-004",
+    "sale_date": "2026-09-17",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-06-26",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-06-27",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-06-28",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-06-29",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-06-30",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-01",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-02",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-03",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-04",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-05",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-06",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-07",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-08",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-09",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-10",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-11",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-12",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-13",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-14",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-15",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-16",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-17",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-18",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-19",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-20",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-21",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-22",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-23",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-24",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-25",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-26",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-27",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-28",
+    "units_sold": 10
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-29",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-30",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-07-31",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-01",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-02",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-03",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-04",
+    "units_sold": 10
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-05",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-06",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-07",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-08",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-09",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-10",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-11",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-12",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-13",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-14",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-15",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-16",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-17",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-18",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-19",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-20",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-21",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-22",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-23",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-24",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-25",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-26",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-27",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-28",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-29",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-30",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-08-31",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-01",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-02",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-03",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-04",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-05",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-06",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-07",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-08",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-09",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-10",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-11",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-12",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-13",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-14",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-15",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-16",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-005",
+    "sale_date": "2026-09-17",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-06-26",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-06-27",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-06-28",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-06-29",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-06-30",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-01",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-02",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-03",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-04",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-06",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-07",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-08",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-09",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-10",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-11",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-12",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-13",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-14",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-15",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-16",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-17",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-18",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-19",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-20",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-21",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-22",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-23",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-24",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-25",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-26",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-27",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-28",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-29",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-30",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-07-31",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-01",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-02",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-03",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-04",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-05",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-06",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-07",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-08",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-09",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-10",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-11",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-12",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-13",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-15",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-16",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-17",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-18",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-19",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-20",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-21",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-22",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-23",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-24",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-25",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-26",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-27",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-28",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-29",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-30",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-08-31",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-01",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-02",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-03",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-04",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-06",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-07",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-08",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-09",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-10",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-11",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-12",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-13",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-14",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-15",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-16",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-006",
+    "sale_date": "2026-09-17",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-06-26",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-06-27",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-06-28",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-06-29",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-06-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-01",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-02",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-03",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-04",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-05",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-06",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-07",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-09",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-10",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-11",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-12",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-13",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-14",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-15",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-16",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-17",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-18",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-19",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-20",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-21",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-22",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-23",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-24",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-25",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-26",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-27",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-28",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-29",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-30",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-07-31",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-01",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-02",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-03",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-04",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-05",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-06",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-07",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-08",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-09",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-10",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-11",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-12",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-13",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-14",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-15",
+    "units_sold": 51
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-16",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-17",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-18",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-19",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-20",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-21",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-22",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-23",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-24",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-25",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-26",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-27",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-28",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-29",
+    "units_sold": 49
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-30",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-08-31",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-01",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-02",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-03",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-04",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-05",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-06",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-07",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-09",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-10",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-11",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-12",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-13",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-14",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-15",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-16",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-007",
+    "sale_date": "2026-09-17",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-06-26",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-06-27",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-06-28",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-06-29",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-06-30",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-01",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-02",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-03",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-04",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-05",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-06",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-07",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-08",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-09",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-10",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-11",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-12",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-13",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-14",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-15",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-16",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-17",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-18",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-19",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-20",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-21",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-22",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-23",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-24",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-25",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-26",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-27",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-28",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-29",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-30",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-07-31",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-01",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-02",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-03",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-04",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-05",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-06",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-09",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-10",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-11",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-12",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-13",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-15",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-16",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-17",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-18",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-19",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-20",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-21",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-22",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-23",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-24",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-25",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-26",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-27",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-28",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-29",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-30",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-08-31",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-01",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-02",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-03",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-04",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-06",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-07",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-08",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-09",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-10",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-11",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-12",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-13",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-14",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-15",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-16",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-008",
+    "sale_date": "2026-09-17",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-06-26",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-06-27",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-06-28",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-06-29",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-06-30",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-01",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-02",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-03",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-04",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-05",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-06",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-07",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-08",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-09",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-10",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-11",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-12",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-13",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-14",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-15",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-16",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-17",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-18",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-19",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-20",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-21",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-22",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-23",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-24",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-25",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-26",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-27",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-28",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-29",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-30",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-07-31",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-01",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-02",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-03",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-04",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-05",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-06",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-07",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-09",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-10",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-11",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-12",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-13",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-14",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-15",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-16",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-17",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-18",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-19",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-20",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-21",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-22",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-23",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-24",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-25",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-26",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-27",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-28",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-29",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-30",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-08-31",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-01",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-02",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-03",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-04",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-05",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-06",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-07",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-08",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-09",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-10",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-11",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-12",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-13",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-15",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-16",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-009",
+    "sale_date": "2026-09-17",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-06-26",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-06-27",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-06-28",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-06-29",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-06-30",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-01",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-02",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-03",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-04",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-06",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-07",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-08",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-09",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-10",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-11",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-12",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-13",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-14",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-15",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-16",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-17",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-18",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-19",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-20",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-21",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-22",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-23",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-24",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-25",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-26",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-27",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-28",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-29",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-30",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-07-31",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-01",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-02",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-03",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-04",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-05",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-06",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-07",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-08",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-09",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-10",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-11",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-12",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-13",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-15",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-16",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-17",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-18",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-19",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-20",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-21",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-22",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-23",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-24",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-25",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-26",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-27",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-28",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-29",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-30",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-08-31",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-01",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-02",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-03",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-04",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-05",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-06",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-07",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-08",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-09",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-10",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-11",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-12",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-13",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-14",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-15",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-16",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-010",
+    "sale_date": "2026-09-17",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-06-26",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-06-27",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-06-28",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-06-29",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-06-30",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-01",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-02",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-03",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-04",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-05",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-06",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-07",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-08",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-09",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-10",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-11",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-12",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-13",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-14",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-15",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-16",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-17",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-18",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-19",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-20",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-21",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-22",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-23",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-24",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-25",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-26",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-27",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-28",
+    "units_sold": 11
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-29",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-30",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-07-31",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-01",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-02",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-03",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-04",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-05",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-06",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-07",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-08",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-09",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-10",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-11",
+    "units_sold": 12
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-12",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-13",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-15",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-16",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-17",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-18",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-19",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-20",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-21",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-22",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-23",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-24",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-25",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-26",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-27",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-28",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-29",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-08-31",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-01",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-02",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-03",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-04",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-05",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-06",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-07",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-08",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-09",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-10",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-11",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-12",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-13",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-14",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-15",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-16",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-011",
+    "sale_date": "2026-09-17",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-06-26",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-06-27",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-06-28",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-06-29",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-06-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-01",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-02",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-03",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-04",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-05",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-06",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-09",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-10",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-11",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-12",
+    "units_sold": 48
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-13",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-14",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-15",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-16",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-17",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-18",
+    "units_sold": 56
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-19",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-20",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-21",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-22",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-23",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-24",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-25",
+    "units_sold": 54
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-26",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-27",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-28",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-29",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-30",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-07-31",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-01",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-02",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-03",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-04",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-05",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-06",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-07",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-08",
+    "units_sold": 56
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-09",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-10",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-11",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-12",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-13",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-14",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-15",
+    "units_sold": 48
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-16",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-17",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-18",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-19",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-20",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-21",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-22",
+    "units_sold": 57
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-23",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-24",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-25",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-26",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-27",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-28",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-29",
+    "units_sold": 55
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-30",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-08-31",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-01",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-02",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-03",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-04",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-05",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-06",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-08",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-09",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-10",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-11",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-12",
+    "units_sold": 53
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-13",
+    "units_sold": 54
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-14",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-15",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-16",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-012",
+    "sale_date": "2026-09-17",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-06-26",
+    "units_sold": 115
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-06-27",
+    "units_sold": 133
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-06-28",
+    "units_sold": 128
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-06-29",
+    "units_sold": 80
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-06-30",
+    "units_sold": 74
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-01",
+    "units_sold": 71
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-02",
+    "units_sold": 98
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-03",
+    "units_sold": 98
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-04",
+    "units_sold": 122
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-05",
+    "units_sold": 125
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-06",
+    "units_sold": 68
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-07",
+    "units_sold": 78
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-08",
+    "units_sold": 76
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-09",
+    "units_sold": 84
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-10",
+    "units_sold": 118
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-11",
+    "units_sold": 130
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-12",
+    "units_sold": 112
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-13",
+    "units_sold": 87
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-14",
+    "units_sold": 63
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-15",
+    "units_sold": 91
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-16",
+    "units_sold": 83
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-17",
+    "units_sold": 97
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-18",
+    "units_sold": 129
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-19",
+    "units_sold": 114
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-20",
+    "units_sold": 82
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-21",
+    "units_sold": 64
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-22",
+    "units_sold": 72
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-23",
+    "units_sold": 101
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-24",
+    "units_sold": 101
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-25",
+    "units_sold": 133
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-26",
+    "units_sold": 115
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-27",
+    "units_sold": 70
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-28",
+    "units_sold": 80
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-29",
+    "units_sold": 85
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-30",
+    "units_sold": 100
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-07-31",
+    "units_sold": 109
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-01",
+    "units_sold": 152
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-02",
+    "units_sold": 128
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-03",
+    "units_sold": 72
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-04",
+    "units_sold": 76
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-05",
+    "units_sold": 96
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-06",
+    "units_sold": 83
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-07",
+    "units_sold": 120
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-08",
+    "units_sold": 157
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-09",
+    "units_sold": 130
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-10",
+    "units_sold": 80
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-11",
+    "units_sold": 86
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-12",
+    "units_sold": 75
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-13",
+    "units_sold": 95
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-14",
+    "units_sold": 109
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-15",
+    "units_sold": 151
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-16",
+    "units_sold": 130
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-17",
+    "units_sold": 91
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-18",
+    "units_sold": 68
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-19",
+    "units_sold": 77
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-20",
+    "units_sold": 99
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-21",
+    "units_sold": 99
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-22",
+    "units_sold": 135
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-23",
+    "units_sold": 136
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-24",
+    "units_sold": 84
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-25",
+    "units_sold": 74
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-26",
+    "units_sold": 100
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-27",
+    "units_sold": 98
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-28",
+    "units_sold": 112
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-29",
+    "units_sold": 150
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-30",
+    "units_sold": 117
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-08-31",
+    "units_sold": 88
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-01",
+    "units_sold": 86
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-02",
+    "units_sold": 92
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-03",
+    "units_sold": 106
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-04",
+    "units_sold": 122
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-05",
+    "units_sold": 135
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-06",
+    "units_sold": 131
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-07",
+    "units_sold": 77
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-08",
+    "units_sold": 75
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-09",
+    "units_sold": 88
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-10",
+    "units_sold": 97
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-11",
+    "units_sold": 102
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-12",
+    "units_sold": 145
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-13",
+    "units_sold": 141
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-14",
+    "units_sold": 82
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-15",
+    "units_sold": 72
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-16",
+    "units_sold": 100
+  },
+  {
+    "dish_id": "DISH-013",
+    "sale_date": "2026-09-17",
+    "units_sold": 88
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-06-26",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-06-27",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-06-28",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-06-29",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-06-30",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-01",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-02",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-03",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-04",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-05",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-06",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-07",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-09",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-10",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-11",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-12",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-13",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-14",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-15",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-16",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-17",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-18",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-19",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-20",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-21",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-22",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-23",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-24",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-25",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-26",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-27",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-28",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-29",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-30",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-07-31",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-01",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-02",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-03",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-04",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-06",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-07",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-08",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-09",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-10",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-11",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-12",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-13",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-14",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-15",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-16",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-17",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-18",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-19",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-20",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-21",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-22",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-23",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-24",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-25",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-26",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-27",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-28",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-29",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-30",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-08-31",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-01",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-02",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-03",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-04",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-05",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-06",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-07",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-09",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-10",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-11",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-12",
+    "units_sold": 39
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-13",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-14",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-15",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-16",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-014",
+    "sale_date": "2026-09-17",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-06-26",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-06-27",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-06-28",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-06-29",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-06-30",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-01",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-02",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-03",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-04",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-05",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-06",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-07",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-08",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-09",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-10",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-11",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-12",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-13",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-14",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-15",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-16",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-17",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-18",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-19",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-20",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-21",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-22",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-23",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-24",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-25",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-26",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-27",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-28",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-29",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-30",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-07-31",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-01",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-02",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-03",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-04",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-05",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-06",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-08",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-09",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-10",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-11",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-12",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-13",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-14",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-15",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-16",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-17",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-18",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-19",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-20",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-21",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-22",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-23",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-24",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-25",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-26",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-27",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-28",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-29",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-30",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-08-31",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-01",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-02",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-03",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-04",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-05",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-06",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-07",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-08",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-09",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-10",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-11",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-12",
+    "units_sold": 42
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-13",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-14",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-15",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-16",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-015",
+    "sale_date": "2026-09-17",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-06-26",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-06-27",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-06-28",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-06-29",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-06-30",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-01",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-02",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-03",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-04",
+    "units_sold": 48
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-05",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-06",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-07",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-08",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-09",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-10",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-11",
+    "units_sold": 51
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-12",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-13",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-14",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-15",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-16",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-17",
+    "units_sold": 36
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-18",
+    "units_sold": 55
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-19",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-20",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-21",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-22",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-23",
+    "units_sold": 37
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-24",
+    "units_sold": 40
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-25",
+    "units_sold": 54
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-26",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-27",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-28",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-29",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-30",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-07-31",
+    "units_sold": 43
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-01",
+    "units_sold": 60
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-02",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-03",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-04",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-05",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-06",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-07",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-08",
+    "units_sold": 58
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-09",
+    "units_sold": 52
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-10",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-11",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-12",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-13",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-14",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-15",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-16",
+    "units_sold": 46
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-17",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-18",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-19",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-20",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-21",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-22",
+    "units_sold": 60
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-23",
+    "units_sold": 44
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-24",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-25",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-26",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-27",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-28",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-29",
+    "units_sold": 60
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-30",
+    "units_sold": 45
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-08-31",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-01",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-02",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-03",
+    "units_sold": 38
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-04",
+    "units_sold": 47
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-05",
+    "units_sold": 51
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-06",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-07",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-08",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-09",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-10",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-11",
+    "units_sold": 41
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-12",
+    "units_sold": 60
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-13",
+    "units_sold": 50
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-14",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-15",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-16",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-016",
+    "sale_date": "2026-09-17",
+    "units_sold": 35
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-06-26",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-06-27",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-06-28",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-06-29",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-06-30",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-01",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-02",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-03",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-04",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-05",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-06",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-07",
+    "units_sold": 13
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-08",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-09",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-10",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-11",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-12",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-13",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-14",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-15",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-16",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-17",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-18",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-19",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-20",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-21",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-22",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-23",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-24",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-25",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-26",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-27",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-28",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-29",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-30",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-07-31",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-01",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-02",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-03",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-04",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-05",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-06",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-07",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-08",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-09",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-10",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-11",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-12",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-13",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-14",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-15",
+    "units_sold": 31
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-16",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-17",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-18",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-19",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-20",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-21",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-22",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-23",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-24",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-25",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-26",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-27",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-28",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-29",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-30",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-08-31",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-01",
+    "units_sold": 14
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-02",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-03",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-04",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-05",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-06",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-07",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-08",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-09",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-10",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-11",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-12",
+    "units_sold": 34
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-13",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-14",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-15",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-16",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-017",
+    "sale_date": "2026-09-17",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-06-26",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-06-27",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-06-28",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-06-29",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-06-30",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-01",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-02",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-03",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-04",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-05",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-06",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-07",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-08",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-09",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-10",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-11",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-12",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-13",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-14",
+    "units_sold": 15
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-15",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-16",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-17",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-18",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-19",
+    "units_sold": 23
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-20",
+    "units_sold": 16
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-21",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-22",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-23",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-24",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-25",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-26",
+    "units_sold": 27
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-27",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-28",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-29",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-30",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-07-31",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-01",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-02",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-03",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-04",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-05",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-06",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-07",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-08",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-09",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-10",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-11",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-12",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-13",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-14",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-15",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-16",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-17",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-18",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-19",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-20",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-21",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-22",
+    "units_sold": 30
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-23",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-24",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-25",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-26",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-27",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-28",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-29",
+    "units_sold": 33
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-30",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-08-31",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-01",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-02",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-03",
+    "units_sold": 24
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-04",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-05",
+    "units_sold": 32
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-06",
+    "units_sold": 28
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-07",
+    "units_sold": 22
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-08",
+    "units_sold": 17
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-09",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-10",
+    "units_sold": 25
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-11",
+    "units_sold": 20
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-12",
+    "units_sold": 26
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-13",
+    "units_sold": 29
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-14",
+    "units_sold": 19
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-15",
+    "units_sold": 18
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-16",
+    "units_sold": 21
+  },
+  {
+    "dish_id": "DISH-018",
+    "sale_date": "2026-09-17",
+    "units_sold": 24
+  }
+]

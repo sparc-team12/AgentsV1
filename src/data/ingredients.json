@@ -1,0 +1,372 @@
+[
+  {
+    "ingredient_id": "ING-001",
+    "name": "Basmati Rice",
+    "unit": "kg",
+    "unit_cost_paise": 12500,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-002",
+    "name": "Chicken Thigh",
+    "unit": "kg",
+    "unit_cost_paise": 28000,
+    "perishable": true,
+    "shelf_life_days": 4,
+    "supplier_id": "SUP-2",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-003",
+    "name": "Mutton Shoulder",
+    "unit": "kg",
+    "unit_cost_paise": 68000,
+    "perishable": true,
+    "shelf_life_days": 4,
+    "supplier_id": "SUP-2",
+    "safety_margin_days": 3
+  },
+  {
+    "ingredient_id": "ING-004",
+    "name": "Prawns",
+    "unit": "kg",
+    "unit_cost_paise": 72000,
+    "perishable": true,
+    "shelf_life_days": 2,
+    "supplier_id": "SUP-2",
+    "safety_margin_days": 3
+  },
+  {
+    "ingredient_id": "ING-005",
+    "name": "Paneer",
+    "unit": "kg",
+    "unit_cost_paise": 42000,
+    "perishable": true,
+    "shelf_life_days": 5,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-006",
+    "name": "Full Cream Milk",
+    "unit": "l",
+    "unit_cost_paise": 6600,
+    "perishable": true,
+    "shelf_life_days": 3,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-007",
+    "name": "Fresh Cream",
+    "unit": "l",
+    "unit_cost_paise": 24000,
+    "perishable": true,
+    "shelf_life_days": 5,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-008",
+    "name": "Butter",
+    "unit": "kg",
+    "unit_cost_paise": 52000,
+    "perishable": true,
+    "shelf_life_days": 20,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-009",
+    "name": "Curd",
+    "unit": "kg",
+    "unit_cost_paise": 8000,
+    "perishable": true,
+    "shelf_life_days": 4,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-010",
+    "name": "Tomato",
+    "unit": "kg",
+    "unit_cost_paise": 4200,
+    "perishable": true,
+    "shelf_life_days": 5,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-011",
+    "name": "Onion",
+    "unit": "kg",
+    "unit_cost_paise": 3400,
+    "perishable": true,
+    "shelf_life_days": 14,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-012",
+    "name": "Ginger",
+    "unit": "kg",
+    "unit_cost_paise": 14000,
+    "perishable": true,
+    "shelf_life_days": 10,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-013",
+    "name": "Garlic",
+    "unit": "kg",
+    "unit_cost_paise": 16000,
+    "perishable": true,
+    "shelf_life_days": 12,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-014",
+    "name": "Green Chilli",
+    "unit": "kg",
+    "unit_cost_paise": 7000,
+    "perishable": true,
+    "shelf_life_days": 6,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-015",
+    "name": "Coriander Leaves",
+    "unit": "kg",
+    "unit_cost_paise": 9000,
+    "perishable": true,
+    "shelf_life_days": 2,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-016",
+    "name": "Mint Leaves",
+    "unit": "kg",
+    "unit_cost_paise": 11000,
+    "perishable": true,
+    "shelf_life_days": 2,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-017",
+    "name": "Curry Leaves",
+    "unit": "kg",
+    "unit_cost_paise": 13000,
+    "perishable": true,
+    "shelf_life_days": 4,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-018",
+    "name": "Potato",
+    "unit": "kg",
+    "unit_cost_paise": 2800,
+    "perishable": true,
+    "shelf_life_days": 20,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-019",
+    "name": "Cauliflower",
+    "unit": "kg",
+    "unit_cost_paise": 4000,
+    "perishable": true,
+    "shelf_life_days": 6,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-020",
+    "name": "Green Peas",
+    "unit": "kg",
+    "unit_cost_paise": 9500,
+    "perishable": true,
+    "shelf_life_days": 5,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-021",
+    "name": "Spinach",
+    "unit": "kg",
+    "unit_cost_paise": 3800,
+    "perishable": true,
+    "shelf_life_days": 3,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-022",
+    "name": "Capsicum",
+    "unit": "kg",
+    "unit_cost_paise": 6200,
+    "perishable": true,
+    "shelf_life_days": 7,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-023",
+    "name": "Lemon",
+    "unit": "kg",
+    "unit_cost_paise": 8800,
+    "perishable": true,
+    "shelf_life_days": 10,
+    "supplier_id": "SUP-1",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-024",
+    "name": "Cashew Nuts",
+    "unit": "kg",
+    "unit_cost_paise": 86000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-025",
+    "name": "Ghee",
+    "unit": "kg",
+    "unit_cost_paise": 64000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-4",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-026",
+    "name": "Refined Oil",
+    "unit": "l",
+    "unit_cost_paise": 14500,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-027",
+    "name": "Wheat Flour",
+    "unit": "kg",
+    "unit_cost_paise": 4800,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-028",
+    "name": "Toor Dal",
+    "unit": "kg",
+    "unit_cost_paise": 15500,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-029",
+    "name": "Chana Dal",
+    "unit": "kg",
+    "unit_cost_paise": 11000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-030",
+    "name": "Garam Masala",
+    "unit": "kg",
+    "unit_cost_paise": 48000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-031",
+    "name": "Turmeric Powder",
+    "unit": "kg",
+    "unit_cost_paise": 22000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-032",
+    "name": "Red Chilli Powder",
+    "unit": "kg",
+    "unit_cost_paise": 26000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-033",
+    "name": "Coriander Powder",
+    "unit": "kg",
+    "unit_cost_paise": 19000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-034",
+    "name": "Cumin Seeds",
+    "unit": "kg",
+    "unit_cost_paise": 34000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-035",
+    "name": "Saffron",
+    "unit": "kg",
+    "unit_cost_paise": 2400000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-036",
+    "name": "Sugar",
+    "unit": "kg",
+    "unit_cost_paise": 4600,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  },
+  {
+    "ingredient_id": "ING-037",
+    "name": "Salt",
+    "unit": "kg",
+    "unit_cost_paise": 2000,
+    "perishable": false,
+    "shelf_life_days": null,
+    "supplier_id": "SUP-3",
+    "safety_margin_days": null
+  }
+]

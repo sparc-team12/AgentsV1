@@ -1,0 +1,590 @@
+[
+  {
+    "recipe_id": "REC-0001",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-001",
+    "quantity_per_serving": 0.18,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0002",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-003",
+    "quantity_per_serving": 0.22,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0003",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-011",
+    "quantity_per_serving": 0.09,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0004",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-009",
+    "quantity_per_serving": 0.06,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0005",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.02,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0006",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-030",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0007",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-035",
+    "quantity_per_serving": 4e-05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0008",
+    "dish_id": "DISH-001",
+    "ingredient_id": "ING-016",
+    "quantity_per_serving": 0.008,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0009",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-001",
+    "quantity_per_serving": 0.18,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0010",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-002",
+    "quantity_per_serving": 0.2,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0011",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-011",
+    "quantity_per_serving": 0.08,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0012",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-009",
+    "quantity_per_serving": 0.05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0013",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.018,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0014",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-030",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0015",
+    "dish_id": "DISH-002",
+    "ingredient_id": "ING-016",
+    "quantity_per_serving": 0.007,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0016",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-002",
+    "quantity_per_serving": 0.18,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0017",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.14,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0018",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-008",
+    "quantity_per_serving": 0.03,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0019",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-007",
+    "quantity_per_serving": 0.04,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0020",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-024",
+    "quantity_per_serving": 0.02,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0021",
+    "dish_id": "DISH-003",
+    "ingredient_id": "ING-030",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0022",
+    "dish_id": "DISH-004",
+    "ingredient_id": "ING-005",
+    "quantity_per_serving": 0.15,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0023",
+    "dish_id": "DISH-004",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.13,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0024",
+    "dish_id": "DISH-004",
+    "ingredient_id": "ING-008",
+    "quantity_per_serving": 0.025,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0025",
+    "dish_id": "DISH-004",
+    "ingredient_id": "ING-007",
+    "quantity_per_serving": 0.035,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0026",
+    "dish_id": "DISH-004",
+    "ingredient_id": "ING-024",
+    "quantity_per_serving": 0.02,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0027",
+    "dish_id": "DISH-005",
+    "ingredient_id": "ING-004",
+    "quantity_per_serving": 0.16,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0028",
+    "dish_id": "DISH-005",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.03,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0029",
+    "dish_id": "DISH-005",
+    "ingredient_id": "ING-032",
+    "quantity_per_serving": 0.006,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0030",
+    "dish_id": "DISH-005",
+    "ingredient_id": "ING-017",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0031",
+    "dish_id": "DISH-005",
+    "ingredient_id": "ING-013",
+    "quantity_per_serving": 0.01,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0032",
+    "dish_id": "DISH-006",
+    "ingredient_id": "ING-002",
+    "quantity_per_serving": 0.19,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0033",
+    "dish_id": "DISH-006",
+    "ingredient_id": "ING-011",
+    "quantity_per_serving": 0.07,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0034",
+    "dish_id": "DISH-006",
+    "ingredient_id": "ING-034",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0035",
+    "dish_id": "DISH-006",
+    "ingredient_id": "ING-017",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0036",
+    "dish_id": "DISH-006",
+    "ingredient_id": "ING-032",
+    "quantity_per_serving": 0.005,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0037",
+    "dish_id": "DISH-007",
+    "ingredient_id": "ING-028",
+    "quantity_per_serving": 0.08,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0038",
+    "dish_id": "DISH-007",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0039",
+    "dish_id": "DISH-007",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.012,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0040",
+    "dish_id": "DISH-007",
+    "ingredient_id": "ING-034",
+    "quantity_per_serving": 0.002,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0041",
+    "dish_id": "DISH-007",
+    "ingredient_id": "ING-015",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0042",
+    "dish_id": "DISH-008",
+    "ingredient_id": "ING-005",
+    "quantity_per_serving": 0.12,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0043",
+    "dish_id": "DISH-008",
+    "ingredient_id": "ING-021",
+    "quantity_per_serving": 0.18,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0044",
+    "dish_id": "DISH-008",
+    "ingredient_id": "ING-007",
+    "quantity_per_serving": 0.02,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0045",
+    "dish_id": "DISH-008",
+    "ingredient_id": "ING-013",
+    "quantity_per_serving": 0.008,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0046",
+    "dish_id": "DISH-009",
+    "ingredient_id": "ING-018",
+    "quantity_per_serving": 0.12,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0047",
+    "dish_id": "DISH-009",
+    "ingredient_id": "ING-019",
+    "quantity_per_serving": 0.14,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0048",
+    "dish_id": "DISH-009",
+    "ingredient_id": "ING-031",
+    "quantity_per_serving": 0.002,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0049",
+    "dish_id": "DISH-009",
+    "ingredient_id": "ING-033",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0050",
+    "dish_id": "DISH-010",
+    "ingredient_id": "ING-001",
+    "quantity_per_serving": 0.16,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0051",
+    "dish_id": "DISH-010",
+    "ingredient_id": "ING-020",
+    "quantity_per_serving": 0.04,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0052",
+    "dish_id": "DISH-010",
+    "ingredient_id": "ING-022",
+    "quantity_per_serving": 0.03,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0053",
+    "dish_id": "DISH-010",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.012,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0054",
+    "dish_id": "DISH-010",
+    "ingredient_id": "ING-024",
+    "quantity_per_serving": 0.008,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0055",
+    "dish_id": "DISH-011",
+    "ingredient_id": "ING-005",
+    "quantity_per_serving": 0.09,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0056",
+    "dish_id": "DISH-011",
+    "ingredient_id": "ING-018",
+    "quantity_per_serving": 0.07,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0057",
+    "dish_id": "DISH-011",
+    "ingredient_id": "ING-007",
+    "quantity_per_serving": 0.04,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0058",
+    "dish_id": "DISH-011",
+    "ingredient_id": "ING-024",
+    "quantity_per_serving": 0.025,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0059",
+    "dish_id": "DISH-011",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.08,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0060",
+    "dish_id": "DISH-012",
+    "ingredient_id": "ING-002",
+    "quantity_per_serving": 0.17,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0061",
+    "dish_id": "DISH-012",
+    "ingredient_id": "ING-009",
+    "quantity_per_serving": 0.05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0062",
+    "dish_id": "DISH-012",
+    "ingredient_id": "ING-032",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0063",
+    "dish_id": "DISH-012",
+    "ingredient_id": "ING-023",
+    "quantity_per_serving": 0.01,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0064",
+    "dish_id": "DISH-012",
+    "ingredient_id": "ING-030",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0065",
+    "dish_id": "DISH-013",
+    "ingredient_id": "ING-027",
+    "quantity_per_serving": 0.07,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0066",
+    "dish_id": "DISH-013",
+    "ingredient_id": "ING-008",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0067",
+    "dish_id": "DISH-014",
+    "ingredient_id": "ING-001",
+    "quantity_per_serving": 0.15,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0068",
+    "dish_id": "DISH-014",
+    "ingredient_id": "ING-034",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0069",
+    "dish_id": "DISH-014",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.01,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0070",
+    "dish_id": "DISH-015",
+    "ingredient_id": "ING-011",
+    "quantity_per_serving": 0.03,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0071",
+    "dish_id": "DISH-015",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.03,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0072",
+    "dish_id": "DISH-015",
+    "ingredient_id": "ING-014",
+    "quantity_per_serving": 0.004,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0073",
+    "dish_id": "DISH-016",
+    "ingredient_id": "ING-006",
+    "quantity_per_serving": 0.08,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0074",
+    "dish_id": "DISH-016",
+    "ingredient_id": "ING-036",
+    "quantity_per_serving": 0.06,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0075",
+    "dish_id": "DISH-016",
+    "ingredient_id": "ING-025",
+    "quantity_per_serving": 0.02,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0076",
+    "dish_id": "DISH-017",
+    "ingredient_id": "ING-006",
+    "quantity_per_serving": 0.22,
+    "unit": "l"
+  },
+  {
+    "recipe_id": "REC-0077",
+    "dish_id": "DISH-017",
+    "ingredient_id": "ING-001",
+    "quantity_per_serving": 0.02,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0078",
+    "dish_id": "DISH-017",
+    "ingredient_id": "ING-036",
+    "quantity_per_serving": 0.05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0079",
+    "dish_id": "DISH-017",
+    "ingredient_id": "ING-024",
+    "quantity_per_serving": 0.006,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0080",
+    "dish_id": "DISH-017",
+    "ingredient_id": "ING-035",
+    "quantity_per_serving": 2e-05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0081",
+    "dish_id": "DISH-018",
+    "ingredient_id": "ING-029",
+    "quantity_per_serving": 0.09,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0082",
+    "dish_id": "DISH-018",
+    "ingredient_id": "ING-011",
+    "quantity_per_serving": 0.05,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0083",
+    "dish_id": "DISH-018",
+    "ingredient_id": "ING-010",
+    "quantity_per_serving": 0.07,
+    "unit": "kg"
+  },
+  {
+    "recipe_id": "REC-0084",
+    "dish_id": "DISH-018",
+    "ingredient_id": "ING-033",
+    "quantity_per_serving": 0.003,
+    "unit": "kg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "supplier_id": "SUP-1",
+    "name": "Green Valley Produce",
+    "lead_time_days": 2,
+    "safety_margin_days": 1
+  },
+  {
+    "supplier_id": "SUP-2",
+    "name": "Coastal Meat & Poultry",
+    "lead_time_days": 3,
+    "safety_margin_days": 2
+  },
+  {
+    "supplier_id": "SUP-3",
+    "name": "Deccan Dry Goods",
+    "lead_time_days": 5,
+    "safety_margin_days": 2
+  },
+  {
+    "supplier_id": "SUP-4",
+    "name": "Nandini Dairy Direct",
+    "lead_time_days": 1,
+    "safety_margin_days": 1
+  }
+]

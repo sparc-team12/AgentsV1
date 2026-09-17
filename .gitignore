@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local mutable state (the DynamoDB stand-in for local development)
+.state/
+
+# AWS SAM build output
+.aws-sam/
+
+# Editors / OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,224 @@
+[
+  {
+    "ingredient_id": "ING-001",
+    "quantity": 54.476,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-002",
+    "quantity": 215.936,
+    "use_by_date": "2026-09-20",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-003",
+    "quantity": 19.008,
+    "use_by_date": "2026-09-22",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-004",
+    "quantity": 4.032,
+    "use_by_date": "2026-09-19",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-005",
+    "quantity": 34.425,
+    "use_by_date": "2026-09-21",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-006",
+    "quantity": 13.035,
+    "use_by_date": "2026-09-21",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-007",
+    "quantity": 25.283,
+    "use_by_date": "2026-09-22",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-008",
+    "quantity": 34.38,
+    "use_by_date": "2026-09-26",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-009",
+    "quantity": 17.064,
+    "use_by_date": "2026-09-22",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-010",
+    "quantity": 57.15,
+    "use_by_date": "2026-09-21",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-011",
+    "quantity": 24.021,
+    "use_by_date": "2026-09-29",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-012",
+    "quantity": 1.298,
+    "use_by_date": "2026-09-24",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-013",
+    "quantity": 3.24,
+    "use_by_date": "2026-09-23",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-014",
+    "quantity": 0.54,
+    "use_by_date": "2026-09-23",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-015",
+    "quantity": 0.245,
+    "use_by_date": "2026-09-19",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-016",
+    "quantity": 0.845,
+    "use_by_date": "2026-09-19",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-017",
+    "quantity": 1.143,
+    "use_by_date": "2026-09-20",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-018",
+    "quantity": 66.42,
+    "use_by_date": "2026-10-06",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-019",
+    "quantity": 16.632,
+    "use_by_date": "2026-09-22",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-020",
+    "quantity": 3.42,
+    "use_by_date": "2026-09-22",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-021",
+    "quantity": 10.525,
+    "use_by_date": "2026-09-19",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-022",
+    "quantity": 8.928,
+    "use_by_date": "2026-09-19",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-023",
+    "quantity": 2.52,
+    "use_by_date": "2026-09-25",
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-024",
+    "quantity": 32.604,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-025",
+    "quantity": 61.976,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-026",
+    "quantity": 0.089,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-027",
+    "quantity": 195.711,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-028",
+    "quantity": 47.169,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-029",
+    "quantity": 45.742,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-030",
+    "quantity": 9.198,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-031",
+    "quantity": 0.137,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-032",
+    "quantity": 7.929,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-033",
+    "quantity": 3.219,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-034",
+    "quantity": 3.842,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-035",
+    "quantity": 0.028,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-036",
+    "quantity": 9.868,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  },
+  {
+    "ingredient_id": "ING-037",
+    "quantity": 1.503,
+    "use_by_date": null,
+    "snapshot_loaded_at": "2026-09-18"
+  }
+]
