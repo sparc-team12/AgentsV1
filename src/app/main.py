@@ -21,7 +21,7 @@ from .reference_data import dataset
 from .risk_engine import assess_spoilage, assess_stockout, build_listing, rupees
 
 app = FastAPI(
-    title="Ingredient Demand Forecasting Assistant",
+    title="Stocksense",
     version="1.0.0",
     description="PRD v1.6 (REQ-001 - REQ-044). Figures are computed deterministically and "
                 "every one carries an arithmetic trace (REQ-028, REQ-029).",

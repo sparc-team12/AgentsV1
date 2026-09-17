@@ -1,3 +1,4 @@
 -r requirements.txt
 pytest==8.3.4
 httpx==0.28.1
+python-dotenv==1.0.1  # local dev only — loads .env; the Lambda gets its env from CloudFormation

@@ -10,8 +10,13 @@ construction rather than by review. The intent parser below is deliberately
 deterministic (keywords and a date grammar, no model call): it needs no
 credentials, it cannot hallucinate, and it satisfies REQ-033 trivially.
 
-`PHRASING_BACKEND=bedrock` swaps in Amazon Bedrock for the *prose only* — it
-is handed the same pre-computed figures and is never given raw input data.
+`PHRASING_BACKEND=bedrock` or `PHRASING_BACKEND=gemini` swaps in Amazon
+Bedrock or Google AI Studio (Gemini) for the *prose only* — either is handed
+the same pre-computed figures and the same guard: if its reply introduces a
+single number, date or amount that was not already in the figure set, the
+reply is discarded and the deterministic text ships instead (`_numbers_within`).
+The choice of backend therefore never affects REQ-030/REQ-031 — it can only
+ever change how the sentence reads, not whether it is correct.
 """
 
 from __future__ import annotations
@@ -305,42 +310,73 @@ def _cannot(message: str) -> dict[str, Any]:
 
 
 def _phrase(text: str, figures: list[dict[str, str]]) -> str:
-    """Optional Bedrock pass over the *prose only* (ADR-006/ADR-007).
+    """Optional LLM pass over the *prose only* (ADR-006/ADR-007).
 
-    The model is handed the already-composed answer and the exact figure set,
-    and is instructed to reword without introducing a number. Any numeral it
-    emits that is not in the supplied set fails the check and the deterministic
-    text is returned instead.
+    Two interchangeable backends, selected by `PHRASING_BACKEND`: `bedrock`
+    (Amazon Bedrock) or `gemini` (Google AI Studio). Both are handed the
+    already-composed answer and the exact figure set, and are instructed to
+    reword without introducing a number. Whichever backend runs, any numeral
+    the reply contains that is not in the supplied set fails `_numbers_within`
+    and the deterministic text is returned instead — the safety guarantee
+    lives in that check, not in which vendor is called.
+
+    Any failure (missing credentials, no network, an unparseable response) is
+    swallowed and the deterministic text is returned: REQ-030/REQ-031 matter
+    more than phrasing, so a broken backend degrades to plain prose rather
+    than to an error.
     """
-    if os.environ.get("PHRASING_BACKEND") != "bedrock":
+    backend = os.environ.get("PHRASING_BACKEND")
+    if backend not in ("bedrock", "gemini"):
         return text
+
+    import json
+
+    prompt = (
+        "Reword the following kitchen-management explanation to read naturally. "
+        "You may not introduce, change, remove or round any number, date or currency amount. "
+        "Use only the figures given.\n\n"
+        f"FIGURES: {json.dumps(figures)}\n\nTEXT:\n{text}"
+    )
     try:
-        import json
-
-        import boto3
-
-        client = boto3.client("bedrock-runtime", region_name=config.AWS_REGION)
-        model_id = os.environ.get("BEDROCK_MODEL_ID", "anthropic.claude-3-5-haiku-20241022-v1:0")
-        prompt = (
-            "Reword the following kitchen-management explanation to read naturally. "
-            "You may not introduce, change, remove or round any number, date or currency amount. "
-            "Use only the figures given.\n\n"
-            f"FIGURES: {json.dumps(figures)}\n\nTEXT:\n{text}"
-        )
-        response = client.invoke_model(
-            modelId=model_id,
-            body=json.dumps({
-                "anthropic_version": "bedrock-2023-05-31",
-                "max_tokens": 600,
-                "messages": [{"role": "user", "content": prompt}],
-            }),
-        )
-        candidate = json.loads(response["body"].read())["content"][0]["text"].strip()
-        if _numbers_within(candidate, text):
-            return candidate
+        candidate = _phrase_bedrock(prompt) if backend == "bedrock" else _phrase_gemini(prompt)
     except Exception:
-        pass  # REQ-030/REQ-031 matter more than phrasing; fall back silently
+        candidate = None
+    if candidate and _numbers_within(candidate, text):
+        return candidate
     return text
+
+
+def _phrase_bedrock(prompt: str) -> str:
+    import json
+
+    import boto3
+
+    client = boto3.client("bedrock-runtime", region_name=config.AWS_REGION)
+    model_id = os.environ.get("BEDROCK_MODEL_ID", "anthropic.claude-3-5-haiku-20241022-v1:0")
+    response = client.invoke_model(
+        modelId=model_id,
+        body=json.dumps({
+            "anthropic_version": "bedrock-2023-05-31",
+            "max_tokens": 600,
+            "messages": [{"role": "user", "content": prompt}],
+        }),
+    )
+    return json.loads(response["body"].read())["content"][0]["text"].strip()
+
+
+def _phrase_gemini(prompt: str) -> str:
+    """Google AI Studio backend. Needs `GEMINI_API_KEY` and the `google-genai`
+    package — neither is required unless `PHRASING_BACKEND=gemini` is set, so
+    local dev and the Bedrock path need neither installed nor configured."""
+    from google import genai
+
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY is not set")
+    client = genai.Client(api_key=api_key)
+    model_id = os.environ.get("GEMINI_MODEL_ID", "gemini-2.5-flash")
+    response = client.models.generate_content(model=model_id, contents=prompt)
+    return (response.text or "").strip()
 
 
 def _numbers_within(candidate: str, source: str) -> bool:
